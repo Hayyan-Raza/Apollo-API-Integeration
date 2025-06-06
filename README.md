@@ -25,7 +25,7 @@ Apollo Companies Data Automation/
 
 1. **Clone the repository:**
     ```bash
-    git clone 
+    git clone https://github.com/Hayyan-Raza/Apollo-API-Integeration.git
     cd apollo-companies-data-automation
     ```
 
